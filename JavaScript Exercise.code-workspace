@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../CodeSpace/JavaScript Exercise"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../user-input-template"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "user-input-template"
+	}
+}
